@@ -1,0 +1,17 @@
+# Setup
+title:        T-Pro
+tagline:      The Digital Voice Experts
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       T-Pro
+  url:        https://github.com/TPro-Dublin
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
