@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d94bdfc-b7a3-4b23-8e3d-7ec0579c09af" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/page-header.html" afterPath="$PROJECT_DIR$/_includes/page-header.html" />
     </list>
     <ignored path="tpro.github.io.iws" />
